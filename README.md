@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadKurniaSani-me
-- 👀 I’m interested in web development and phyton
-- 🌱 I’m currently learning web development and phyton
+- 👀 I’m interested in web development and data scientist
+- 🌱 I’m currently learning web development and data scientist
 - 💞️ I’m looking to collaborate with you!
 - 📫 How to reach me: via email: sani230402@gmail.com
 
