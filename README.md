@@ -59,7 +59,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/muhammad-kurnia-sani/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://mail.google.com/mail/?view=cm&fs=1&to=andreandrian565@gmail.com&su=SUBJECT&body=BODY&bcc=andreandrian565@gmail.com" target="_blank"><img src="https://img.icons8.com/color/344/circled-envelope.png" width="45"/></a>
+<a href = "https://mail.google.com/mail/?view=cm&fs=1&to=andreandrian565@gmail.com&su=SUBJECT&body=BODY&bcc=sani230402@gmail.com" target="_blank"><img src="https://img.icons8.com/color/344/circled-envelope.png" width="45"/></a>
 <a href = "https://www.instagram.com/sani2342.me/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
