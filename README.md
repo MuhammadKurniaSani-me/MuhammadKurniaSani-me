@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sani</h1>
-<h3 align="center">I'm an active college student who learn Web Development & Data Science</h3>
+<h3 align="center">I'm an active college student who still learn Web Development & Data Science</h3>
 
 
 ## 🙋‍♂️ About Me
